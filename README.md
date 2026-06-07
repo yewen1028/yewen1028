@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/e1a183a5-e078-48d8-8c0b-4193df3f182b" />
 # Hi there, I'm Soh Ye Wen 👋
 🎓 Bachelor of Computer Science (Artificial Intelligence) Student<br><br>I'm passionate about software development, artificial intelligence, Internet of Things (IoT), and problem-solving through technology. I enjoy building practical applications that combine software and hardware to address real-world challenges.<br><br>🚀 About Me<br>💻 Interested in Artificial Intelligence, Software Engineering, and IoT<br>🌱 Continuously learning new technologies and development practices<br>🔧 Experienced with Java application development and GUI systems<br>🤖 Worked on AI, chatbot, and smart monitoring projects<br>📊 Interested in system design, automation, and data-driven solutions<br>🤝 Enjoy collaborating on team projects and exploring innovative ideas
 
