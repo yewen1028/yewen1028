@@ -94,7 +94,7 @@ practical applications that combine software and hardware to address real-world 
 </div>
 
 <div align="center">
-  <img width="95%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yewen1028/yewen1028/output/snake.svg" />
+  <img width="95%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yewen1028/yewen1028/output/snake-dark.svg" />
 </div>
 
 ---
