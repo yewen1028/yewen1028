@@ -94,11 +94,7 @@ practical applications that combine software and hardware to address real-world 
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yewen1028/yewen1028/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yewen1028/yewen1028/output/snake.svg" />
-    <img width="95%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yewen1028/yewen1028/output/snake.svg" />
-  </picture>
+  <img width="95%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yewen1028/yewen1028/output/snake.svg" />
 </div>
 
 ---
