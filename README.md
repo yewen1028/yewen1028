@@ -85,8 +85,8 @@ practical applications that combine software and hardware to address real-world 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=yewen1028&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yewen1028&theme=tokyonight" alt="Most Used Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=yewen1028&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yewen1028&theme=tokyonight" alt="Top Languages by Commit" />
 </div>
 
 <div align="center">
