@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yewen1028"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:yewen1028@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C4AB6&center=true&vCenter=true&width=650&lines=Computer+Science+(AI)+Student;Software+Engineering+%7C+AI+%7C+IoT;Building+practical%2C+real-world+solutions" alt="Typing SVG" />
 </p>
 
